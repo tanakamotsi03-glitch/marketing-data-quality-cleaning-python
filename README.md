@@ -210,27 +210,19 @@ Marketing-Data-Quality-Cleaning/
 
 ├── README.md
 
-│
-
 ├── Dataset/
 
 │      marketing_campaign_data_messy.csv
-
-│
 
 ├── Python/
 
 │      Data_Cleaning.ipynb
 
-│
-
 ├── Images/
-
-│
 
 └── Cleaned_Dataset/
 
-       marketing_campaign_data_cleaned.csv
+│     marketing_campaign_data_cleaned.csv
 
 ---
 
